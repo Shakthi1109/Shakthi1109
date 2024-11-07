@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Shakthivel Murugavel
 
-Experienced Software Engineer specializing in **Cybersecurity** and **Artificial Intelligence** with over **5 years** of experience across **France, India, Australia, and the UK**. My background in diverse technical roles and hands-on projects has sharpened my skills in **automation**, **optimization programming**, and **full-stack development**.
+An Experienced Software Engineer 👨🏻‍💻 specializing in **Cybersecurity** and **Artificial Intelligence** with over **5 years** of experience across **France 🇫🇷, India, Australia, and the UK**. My background in diverse technical roles and hands-on projects has sharpened my skills in **automation**, **optimization programming**, and **full-stack development**.
 
 ------
 <h3 align="left">Activity:</h3>
