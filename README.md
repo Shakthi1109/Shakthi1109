@@ -1,6 +1,10 @@
 # 👋 Hello! I'm Shakthivel Murugavel
 
-An Experienced Software Engineer 👨🏻‍💻 specializing in **Cybersecurity** and **Artificial Intelligence** with over **5 years** of experience across **France, Australia, United Kingdom and India**. My background in diverse technical roles and hands-on projects has sharpened my skills in **automation**, **optimization programming**, and **full-stack development**.
+A **Full-Stack Developer / Software Engineer** 👨🏻‍💻 with over **5 years of experience** designing and developing secure, scalable applications 🚀.  Proficient in **modern frameworks, cloud technologies, and agile methodologies** with international exposure 🌎 collaborating with professionals from **25+ nations including France, Australia, the United Kingdom, India** and more. 
+
+A determined professional with a sharp ability to **adapt to diverse teams and environments**, driven by a **passion for technology and continuous learning** 💪. Skilled in **analysing, organising, planning the steps** to achieve the task and **get work done**! ✅
+
+I’d be happy to discuss how my skills and experience can contribute to **building great products** 🤝. Looking forward to an inspiring exchange.
 
 ------
 <h3 align="left">Activity:</h3>
@@ -40,7 +44,7 @@ An Experienced Software Engineer 👨🏻‍💻 specializing in **Cybersecurity
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=selenium,pytest,phpunit"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=pytest,phpunit,junit"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
@@ -56,17 +60,20 @@ An Experienced Software Engineer 👨🏻‍💻 specializing in **Cybersecurity
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian,alpine"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian"/></td>
     </tr>
 </table>
 
 ### 🛠 Key Skills
 
-- **Programming Languages:** Java, Python, JavaScript, SQL
-- **Frameworks & Tools:** SpringBoot, ReactJS, NodeJS, Docker, AWS, Ghidra
-- **Cybersecurity:** Vulnerability Analysis, Threat Intelligence, Encryption (AES-256, RSA 256)
-- **Cloud & DevOps:** AWS (Lambda, VPC), CI/CD (Jenkins, Gitlab)
-- **Development Methodologies:** Agile, Scrum, Kanban
+- **Programming:** Python, Java, JavaScript, TypeScript, OOP
+- **Backend:** Node.js, Python Flask, Spring Boot, Android SDK
+- **Frontend:** React.js, Next.js, HTML5, SCSS, React Native
+- **Tools & Methodologies:** Git, Jira, Agile, SOLID, DRY, KISS, YAGNI, MVC
+- **Cloud & DevOps:** AWS (Lambda, VPC, IAM), Docker, GitLab CI/CD
+- **Database:** MongoDB, PostgreSQL, MySQL, Firebase, SQL
+- **API & Data formats:** API RESTful, GraphQL, JSON, XML, YAML
+- **Security:** XSS, MitM, DoS, Cryptography, ReverseEngineering
 
 ---
 
@@ -81,7 +88,7 @@ An Experienced Software Engineer 👨🏻‍💻 specializing in **Cybersecurity
 - **Pivotree (2020-2022)**  
   Automated 60+ processes, achieving a promotion as Lead of Optimization.
 
-- **Hasura, SPI Cinemas, Crio, and more (2017-2020)**  
+- **Hasura, SPI Cinemas, Crio, and more (2018-2020)**  
   Built projects including a **radiation detection tool** with 96% accuracy.
 
 ---
