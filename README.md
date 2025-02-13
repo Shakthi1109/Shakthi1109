@@ -19,7 +19,7 @@ I’d be happy to discuss how my skills and experience can contribute to **build
 </div>
 <p align="center">
   <a href="https://github.com/Shakthi1109">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakthi1109&&theme=tokyonight" alt="Shakthi1109" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakthi1109&&theme=tokyonight" alt="Shakthi" />
   </a>
 </p>
 
@@ -44,7 +44,7 @@ I’d be happy to discuss how my skills and experience can contribute to **build
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=pytest,phpunit,junit"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=pytest,phpunit"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
