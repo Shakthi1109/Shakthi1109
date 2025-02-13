@@ -11,60 +11,75 @@ I’d be happy to discuss how my skills and experience can contribute to **build
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shakthi1109&bg_color=100f0f&color=3DFF00&line=3DFF00&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<h3 align="center">🔥 My Stats 🔥</h3>
 <div align="center">
   <a href="https://github.com/Shakthi1109">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shakthi1109&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Shakthi1109"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shakthi1109&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Shakthi1109"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Shakthi1109&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Shakthi1109"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shakthi1109&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="Shakthi1109"/>
   </a>
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Shakthi1109&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=3&order=3" height="200" alt="stats"/>
+</div>
+
+###
 
 ------
 <h3 align="left">Languages and Tools:</h3>
 <table>
+      <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Programming Languages:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bash,c,cs,cpp,java,js,php,py,ts,"/></td>
+    </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python,java,cs,php,spring,maven,nodejs,fastapi,flask,express,nginx,vite"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=androidstudio,flask,flutter,nodejs,spring,unity"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vue,react,bootstrap,html,css,sass,js,ts"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bootstrap,cmake,css,figma,html,nextjs,nginx,react,redux,vue"/></td>
+    </tr>
+      <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools & Methodologies:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bitbucket,git,github,githubactions,gitlab"/></td>
+    </tr>
+<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Cloud & DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=aws,azure,docker,gcp,kubernetes"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlitee"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions"/></td>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">API, Data & tests:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=fastapi,express,graphql,jquery,postman"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Automated test:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=pytest,phpunit"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Build Tools & Package Manger:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=gradle,maven,npm,yarn"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">ML/AI:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=anaconda,opencv,sklearn,tensorflow"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Ides:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode,atom,eclipse,visualstudio,sublime"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bash,gradle"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs & Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=latex,matlab,stackoverflow,discord,atom,eclipse,idea,sublime,vim,vscode"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=windows,ubuntu,debian"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=debian,kali,linux,ubuntu,windows,androidstudio"/></td>
     </tr>
 </table>
 
 ### 🛠 Key Skills
 
-- **Programming:** Python, Java, JavaScript, TypeScript, OOP
+- **Programming Languages:** Python, Java, JavaScript, TypeScript
 - **Backend:** Node.js, Python Flask, Spring Boot, Android SDK
 - **Frontend:** React.js, Next.js, HTML5, SCSS, React Native
-- **Tools & Methodologies:** Git, Jira, Agile, SOLID, DRY, KISS, YAGNI, MVC
+- **Tools & Methodologies:** Git, Jira, Agile, SOLID, DRY, KISS, YAGNI, MVC, OOP
 - **Cloud & DevOps:** AWS (Lambda, VPC, IAM), Docker, GitLab CI/CD
 - **Database:** MongoDB, PostgreSQL, MySQL, Firebase, SQL
 - **API & Data formats:** API RESTful, GraphQL, JSON, XML, YAML
