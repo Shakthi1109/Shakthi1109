@@ -19,7 +19,7 @@ I’d be happy to discuss how my skills and experience can contribute to **build
 </div>
 <p align="center">
   <a href="https://github.com/Shakthi1109">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shakthi1109&&theme=tokyonight" alt="Shakthi" />
+    <img src="https://github.com/Shakthi1109&&theme=tokyonight" alt="Shakthi" />
   </a>
 </p>
 
