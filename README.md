@@ -17,11 +17,6 @@ I’d be happy to discuss how my skills and experience can contribute to **build
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shakthi1109&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Shakthi1109"/>
   </a>
 </div>
-<p align="center">
-  <a href="https://github.com/Shakthi1109">
-    <img src="https://github.com/Shakthi1109&&theme=tokyonight" alt="Shakthi" />
-  </a>
-</p>
 
 ------
 <h3 align="left">Languages and Tools:</h3>
