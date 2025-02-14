@@ -141,7 +141,7 @@ I’d be happy to discuss how my skills and experience can contribute to **build
   <a href="https://www.youtube.com/@CommonManTech" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="mailto:shakthivel.murugavel@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shakthivel.murugavel@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FD7C17&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://shakthi1109.github.io/website/" target="_blank">
