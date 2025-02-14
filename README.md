@@ -143,16 +143,16 @@ I’d be happy to discuss how my skills and experience can contribute to **build
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="mailto:shakthivel.murugavel@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=33CBFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://shakthi1109.github.io/website/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo"  />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google&label=&color=9C54E3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo"  />
   </a>
 
 </div>
-
+<br>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shakthi1109.Shakthi1109"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shakthi1109.Shakthi1109" height="35"/>
 </div>
 
 ###
