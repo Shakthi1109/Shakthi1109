@@ -7,6 +7,15 @@ A determined professional with a sharp ability to **adapt to diverse teams and e
 I’d be happy to discuss how my skills and experience can contribute to **building great products** 🤝. Looking forward to an inspiring exchange.
 
 ------
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
+
 <h3 align="left">Activity:</h3>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shakthi1109&bg_color=100f0f&color=3DFF00&line=3DFF00&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -74,6 +83,8 @@ I’d be happy to discuss how my skills and experience can contribute to **build
     </tr>
 </table>
 
+------
+
 ### 🛠 Key Skills
 
 - **Programming Languages:** Python, Java, JavaScript, TypeScript
@@ -125,4 +136,4 @@ I’d be happy to discuss how my skills and experience can contribute to **build
 - **LinkedIn:** [linkedin.com/in/shakthi11](https://www.linkedin.com/in/shakthi11)
 - **Portfolio:** [shakthi1109.github.io/website](https://shakthi1109.github.io/website)
 
-Thank you for visiting my profile! Feel free to explore my repositories or reach out to discuss AI, cybersecurity, or potential collaborations.
+Thank you for visiting my profile! Feel free to explore my repositories or reach out to discuss Software Development, AI, cybersecurity, or potential collaborations.
