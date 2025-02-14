@@ -12,7 +12,7 @@ I’d be happy to discuss how my skills and experience can contribute to **build
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Shakthi1109/Shakthi1109/output/snake.svg" alt="Snake animation" />
 
 ###
 
