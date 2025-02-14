@@ -9,11 +9,11 @@ I’d be happy to discuss how my skills and experience can contribute to **build
 ------
 
 ###
+<div align="center">
+  
+  ![snake gif](https://github.com/Shakthi1109/Shakthi1109/blob/output/github-snake-dark.svg)
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Shakthi1109/Shakthi1109/output/snake.svg" alt="Snake animation" />
-
+</div>
 ###
 
 <h3 align="left">Activity:</h3>
