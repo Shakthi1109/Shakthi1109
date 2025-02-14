@@ -14,7 +14,6 @@ I’d be happy to discuss how my skills and experience can contribute to **build
   ![snake gif](https://github.com/Shakthi1109/Shakthi1109/blob/output/github-snake-dark.svg)
 
 </div>
-###
 
 <h3 align="left">Activity:</h3>
 
@@ -36,7 +35,7 @@ I’d be happy to discuss how my skills and experience can contribute to **build
 
 ------
 <h3 align="center">Languages and Tools:</h3>
-<table>
+<table align="center">
       <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Programming Languages:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=bash,c,cs,cpp,java,js,php,py,ts,"/></td>
@@ -143,7 +142,7 @@ I’d be happy to discuss how my skills and experience can contribute to **build
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="mailto:shakthivel.murugavel@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=33CBFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FD7C17&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://shakthi1109.github.io/website/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google&label=&color=9C54E3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo"  />
