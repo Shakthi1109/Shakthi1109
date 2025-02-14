@@ -35,7 +35,7 @@ I’d be happy to discuss how my skills and experience can contribute to **build
 ###
 
 ------
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools:</h3>
 <table>
       <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Programming Languages:</td>
@@ -133,7 +133,29 @@ I’d be happy to discuss how my skills and experience can contribute to **build
 
 ### 📫 Let's Connect
 
-- **LinkedIn:** [linkedin.com/in/shakthi11](https://www.linkedin.com/in/shakthi11)
-- **Portfolio:** [shakthi1109.github.io/website](https://shakthi1109.github.io/website)
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/shakthi11/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@CommonManTech" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="mailto:shakthivel.murugavel@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://shakthi1109.github.io/website/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo"  />
+  </a>
+
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Shakthi1109.Shakthi1109"  />
+</div>
+
+###
+
 
 Thank you for visiting my profile! Feel free to explore my repositories or reach out to discuss Software Development, AI, cybersecurity, or potential collaborations.
