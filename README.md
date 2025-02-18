@@ -29,6 +29,7 @@ I’d be happy to discuss how my skills and experience can contribute to **build
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Shakthi1109&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=3&order=3" height="200" alt="stats"/>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Shakthi1109&theme=chartreuse-dark&border_radius=3&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=500&card_height=200&fire=EB531D)](https://git.io/streak-stats)
 </div>
 
 ###
