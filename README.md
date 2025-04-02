@@ -6,6 +6,7 @@ A determined professional with a sharp ability to **adapt to diverse teams and e
 
 I’d be happy to discuss how my skills and experience can contribute to **building great products** 🤝. Looking forward to an inspiring exchange.
 
+
 ------
 
 ###
