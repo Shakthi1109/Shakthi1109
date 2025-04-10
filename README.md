@@ -1,4 +1,4 @@
-# 👋 Hello! I'm Shakthivel Murugavel
+# 👋 Bonjour! I'm Shakthivel Murugavel
 
 A **Full-Stack Software Engineer 👨🏻‍💻 with experience** in designing and developing secure, scalable applications 🚀.  Proficient in **modern frameworks, cloud technologies, and agile methodologies** with international exposure 🌎 collaborating with professionals from **25+ nations including France, Australia, the United Kingdom, India** and more. 
 
