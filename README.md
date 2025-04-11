@@ -4,7 +4,7 @@ A **Full-Stack Software Engineer 👨🏻‍💻 with experience** in designing 
 
 A determined professional with a sharp ability to **adapt to diverse teams and environments**, driven by a **passion for technology and continuous learning** 💪. Skilled in **analysing, organising, planning the steps** to achieve the task and **get work done**! ✅
 
-I’d be happy to discuss how my skills and experience can contribute to **building great products** 🤝. Looking forward to an inspiring exchange.
+I’d be happy to discuss how my skills and experience can contribute to **building great products** 🤝. Looking forward to an inspiring exchange!
 
 
 ------
