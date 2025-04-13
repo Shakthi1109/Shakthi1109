@@ -126,9 +126,9 @@ I’d be happy to discuss how my skills and experience can contribute to **build
 
 ### 🎓 Education
 
-- **Université Gustave Eiffel (ESIEE Paris)** - Master’s in Cybersecurity & AI
+- **Université Gustave Eiffel (ESIEE Paris)** - Diplome d'ingénieur - Masters in Cybersecurity & AI
 - **Teesside University** - Exchange Program, specialized in Agile web and mobile app development
-- **SRM Institute of Science and Technology** - B.Tech in Computer Science, ranked top 3
+- **SRM Institute of Science and Technology** - Engineering Degree in Computer Science, ranked top 3
 
 ---
 
