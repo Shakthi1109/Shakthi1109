@@ -88,14 +88,17 @@ I’d be happy to discuss how my skills and experience can contribute to buildin
 
 ### 🛠 Key Skills
 
-- **Programming Languages:** Python, Java, JavaScript, TypeScript
-- **Backend:** Node.js, Python Flask, Spring Boot, Android SDK
-- **Frontend:** React.js, Next.js, HTML5, SCSS, React Native
-- **Tools & Methodologies:** Git, Jira, Agile, SOLID, DRY, KISS, YAGNI, MVC, OOP
-- **Cloud & DevOps:** AWS (Lambda, VPC, IAM), Docker, GitLab CI/CD
-- **Database:** MongoDB, PostgreSQL, MySQL, Firebase, SQL
-- **API & Data formats:** API RESTful, GraphQL, JSON, XML, YAML
-- **Security:** XSS, MitM, DoS, Cryptography, ReverseEngineering
+- **Programming Languages:** Python, Java, JavaScript
+- **Backend:** Node.js, FastAPI, Flask, Android SDK
+- **Frontend:** React, Vue, React Native
+- **Security:** OWASP Top 10, SAST, DAST, SCA, OSWE, GWEB, GCSA, Secure Coding, App Security, Pentest, Cryptography, Reverse Engineering, Key Management, Vulnerability Assessment, Shell Scripting, SSDLC
+- **Artificial Intelligence:** Computer Vision, ML Algorithms, Tensor Flow, Gen AI
+- **DevOps & Cloud:**  	CI/CD pipelines, Docker, Automation, GCP, AWS (IAM, Lambda, VPC, EC2, ELB, S3)
+- **Tools & Methodologies:** GitLab, Secure Coding Best practices, Git, SSDLC, SOLID, DRY, KISS, YAGNI, MVC, MVP, Agile, Scrum, Kanban, Jira, SonarQube, Linter
+- **Database:** NoSQL (MongoDB), Relational (PostgreSQL), Cloud (S3, Firebase), ACID, CRUD
+- **API & Data formats:**  	RESTful API, GraphQL, JSON, XML, Postman
+- **Networks:** Network fundamentals, OSI layers and Protocols, Firewalls, Linux, Network Security
+
 
 ---
 
