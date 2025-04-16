@@ -1,10 +1,10 @@
-# 👋 Bonjour! I'm Shakthivel Murugavel
+# 👋 Bonjour! I'm Shakthi
 
-A **Full-Stack Software Engineer 👨🏻‍💻 with experience** in designing and developing secure, scalable applications 🚀.  Proficient in **modern frameworks, cloud technologies, and agile methodologies** with international exposure 🌎 collaborating with professionals from **25+ nations including France, Australia, the United Kingdom, India** and more. 
+A **Software Engineer Full stack 👨🏻‍💻 with 5+ years of experience** in designing and developing secure, scalable applications 🚀.  Proficient in **Cloud, Cybersecurity, AI and Agile architectures** with international exposure 🌎 including **France, Australia, the United Kingdom, India** and more. 
 
-A determined professional with a sharp ability to **adapt to diverse teams and environments**, driven by a **passion for technology and continuous learning** 💪. Skilled in **analysing, organising, planning the steps** to achieve the task and **get work done**! ✅
+Skilled in analysing and planning the steps to achieve the goal and get work done! ✅
 
-I’d be happy to discuss how my skills and experience can contribute to **building great products** 🤝. Looking forward to an inspiring exchange.
+I’d be happy to discuss how my skills and experience can contribute to building great products 🤝. Looking forward to an inspiring exchange.
 
 
 ------
