@@ -1,4 +1,4 @@
-# 👋 Bonjour! I'm Shakthi
+# Bonjour! I'm Shakthi👋 
 
 💻 **Software Engineer** specialized in AI 🤖 and Cybersecurity 🔐, with over **5 years of experience** in developing secure, scalable, and resilient software architectures.
 
