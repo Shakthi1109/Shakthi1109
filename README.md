@@ -1,10 +1,13 @@
 # 👋 Bonjour! I'm Shakthi
 
-A **Software Engineer Full stack 👨🏻‍💻 with 5+ years of experience** in designing and developing secure, scalable applications 🚀.  Proficient in **Cloud, Cybersecurity, AI and Agile architectures** with international exposure 🌎 including **France, Australia, the United Kingdom, India** and more. 
+💻 **Software Engineer** specialized in AI 🤖 and Cybersecurity 🔐, with over **5 years of experience** in developing secure, scalable, and resilient software architectures.
 
-Skilled in analysing and planning the steps to achieve the goal and get work done! ✅
+🚀 Proficient in **Software Development, Cloud ☁️, and Agile practices** with strong expertise in designing and delivering enterprise-grade technical solutions for organizations such as **Renault, Pivotree, Hasura**, and more.
 
-I’d be happy to discuss how my skills and experience can contribute to building great products 🤝. Looking forward to an inspiring exchange.
+🌍 **Quick learner and highly adaptable** to international environments, having collaborated with teams across **Australia 🇦🇺, UK 🇬🇧, India 🇮🇳, France 🇫🇷, US 🇺🇸, and Canada 🇨🇦**.
+🗣️ Fluent in **English and French**.
+
+🔎 **Available for new opportunities**.
 
 
 ------
