@@ -1,11 +1,11 @@
 # Bonjour! I'm Shakthi👋 
 
-💻 **Software Engineer** specialized in AI 🤖 and Cybersecurity 🔐, with over **5 years of experience** in developing secure, scalable, and resilient software architectures.
+💻 **Full Stack Software Engineer** specialized in **AI 🤖 and Cybersecurity 🔐**, with over **6 years of experience** in developing secure, scalable, and resilient software architectures.
 
-🚀 Proficient in **Software Development, Cloud ☁️, and Agile practices** with strong expertise in designing and delivering enterprise-grade technical solutions for organizations such as **Renault, Pivotree, Hasura**, and more.
+🚀 Proficient in **Software Development, Cloud ☁️, and Agile practices**, with strong expertise in designing and delivering **enterprise-grade technical solutions** for **MNCs (Renault, Pivotree, etc.)**, **Startups (Speakli, Hasura, etc.)**, and more.
 
-🌍 **Quick learner and highly adaptable** to international environments, having collaborated with teams across **Australia 🇦🇺, UK 🇬🇧, India 🇮🇳, France 🇫🇷, US 🇺🇸, and Canada 🇨🇦**.
-🗣️ Fluent in **English and French**.
+🌍 **Quick to learn and highly adaptable** to international environments, having collaborated with teams across **Australia 🇦🇺, UK 🇬🇧, India 🇮🇳, France 🇫🇷, US 🇺🇸, and Canada 🇨🇦**.
+🗣️ Fluent in **English/French**.
 
 🔎 **Available for new opportunities**.
 
