@@ -1,13 +1,14 @@
 # Bonjour! I'm Shakthi👋 
 
-💻 **Full Stack Software Engineer** specialized in **AI 🤖 and Cybersecurity 🔐**, with over **6 years of experience** in developing secure, scalable, and resilient software architectures.
+**Senior Full Stack Software Engineer** with **7 years of experience** building scalable SaaS, cloud and AI systems. Specialized in **Python backends, React frontends, AWS, GCP, cloud and CI/CD pipelines**.
 
-🚀 Proficient in **Software Development, Cloud ☁️, and Agile practices**, with strong expertise in designing and delivering **enterprise-grade technical solutions** for **MNCs (Renault, Pivotree, etc.)**, **Startups (Speakli, Hasura, etc.)**, and more.
+My cybersecurity background shapes how I approach application design, authentication, data protection and production reliability.
 
-🌍 **Quick to learn and highly adaptable** to international environments, having collaborated with teams across **Australia 🇦🇺, UK 🇬🇧, India 🇮🇳, France 🇫🇷, US 🇺🇸, and Canada 🇨🇦**.
-🗣️ Fluent in **English/French**.
+🚀 Currently working at **Speakli** as a **Core Software Engineer**, owning system design for a **speech-to-text healthcare report generation platform**. Previously worked at **Renault, Pivotree, Hasura**, and more.
 
-🔎 **Available for new opportunities**.
+🌍 Based in **Paris**. Worked with teams across **Australia 🇦🇺, UK 🇬🇧, India 🇮🇳, France 🇫🇷, US 🇺🇸, and Canada 🇨🇦**. Working in **English and French**.
+
+🔎 **Open to senior full stack and AI engineering roles in Paris or remote**.
 
 
 ------
@@ -21,7 +22,7 @@
 
 <h3 align="left">Activity:</h3>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shakthi1109&bg_color=100f0f&color=3DFF00&line=3DFF00&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shakthi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shakthi1109&bg_color=100f0f&color=3DFF00&line=3DFF00&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="center">🔥 My Stats 🔥</h3>
 <div align="center">
@@ -41,49 +42,38 @@
 ------
 <h3 align="center">Languages and Tools:</h3>
 <table align="center">
-      <tr>
+    <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Programming Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bash,c,cs,cpp,java,js,php,py,ts,"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=py,ts,js,java"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=androidstudio,flask,flutter,nodejs,spring,unity"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=fastapi,nodejs,graphql"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bootstrap,cmake,css,figma,html,nextjs,nginx,react,redux,vue"/></td>
-    </tr>
-      <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools & Methodologies:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bitbucket,git,github,githubactions,gitlab"/></td>
-    </tr>
-<td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Cloud & DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=aws,azure,docker,gcp,kubernetes"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,vue,tailwind,figma"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=firebase,mongodb,mysql,sqlitee"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Databases:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postgres,mongodb,redis"/></td>
     </tr>
     <tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">API, Data & tests:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=fastapi,express,graphql,jquery,postman"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Cloud & DevOps:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,gitlab"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Build Tools & Package Manger:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=gradle,maven,npm,yarn"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">AI & LLM:</td>
+        <td>
+          <img height="28" src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude"/>
+          <img height="28" src="https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/>
+          <img height="28" src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" alt="Cursor"/>
+          <img height="28" src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+        </td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">ML/AI:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=anaconda,opencv,sklearn,tensorflow"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">IDEs & Other Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=latex,matlab,stackoverflow,discord,atom,eclipse,idea,sublime,vim,vscode"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Operating Systems:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=debian,kali,linux,ubuntu,windows,androidstudio"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools & OS:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github,notion,linux,vscode"/></td>
     </tr>
 </table>
 
@@ -91,50 +81,52 @@
 
 ### 🛠 Key Skills
 
-- **Programming Languages:** Python, Java, JavaScript
-- **Backend:** Node.js, FastAPI, Flask, Android SDK
-- **Frontend:** React, Vue, React Native
-- **Security:** OWASP Top 10, SAST, DAST, SCA, OSWE, GWEB, GCSA, Secure Coding, App Security, Pentest, Cryptography, Reverse Engineering, Key Management, Vulnerability Assessment, Shell Scripting, SSDLC
-- **Artificial Intelligence:** Computer Vision, ML Algorithms, Tensor Flow, Gen AI
-- **DevOps & Cloud:**  	CI/CD pipelines, Docker, Automation, GCP, AWS (IAM, Lambda, VPC, EC2, ELB, S3)
-- **Tools & Methodologies:** GitLab, Secure Coding Best practices, Git, SSDLC, SOLID, DRY, KISS, YAGNI, MVC, MVP, Agile, Scrum, Kanban, Jira, SonarQube, Linter
-- **Database:** NoSQL (MongoDB), Relational (PostgreSQL), Cloud (S3, Firebase), ACID, CRUD
-- **API & Data formats:**  	RESTful API, GraphQL, JSON, XML, Postman
-- **Networks:** Network fundamentals, OSI layers and Protocols, Firewalls, Linux, Network Security
+- **Backend:** Python (FastAPI), Node.js, REST, GraphQL, async programming, message queues (RabbitMQ), microservices, system design
+- **Frontend:** React, TypeScript, Vue.js, Tailwind CSS
+- **AI & LLM:** RAG pipelines, LLM fine-tuning, AI agents, MCP servers, Anthropic / OpenAI APIs, speech-to-text, prompt engineering
+- **Cloud & DevOps:** AWS (S3, EC2, Lambda), GCP (Cloud Run, Cloud SQL), Docker, Kubernetes, CI/CD (GitHub Actions, GitLab), Terraform
+- **Databases:** PostgreSQL, MongoDB, Redis, SQLAlchemy / ORMs, data modeling, query optimization
+- **Engineering Practices:** Testing (pytest, Jest), code review, secure coding (OWASP, GDPR), observability, Agile (Scrum, Kanban), Git
+- **Leadership:** Technical ownership, architecture decisions, mentoring, cross-functional collaboration
 
 
 ---
 
 ### 📌 Professional Experience
 
-- **Renault (2024)**  
-  Migrated legacy code to modern stack: SpringBoot, Java 21, MongoDB 7.
+- **Speakli, Paris (Nov 2025 - Present): Core Software Engineer**  
+  Own system design for a speech-to-text healthcare report platform serving 20+ clients and ~21,000 documents/day (FastAPI, PostgreSQL, GCP). Fine-tuned LLM and speech models for clinical data; React/TypeScript UI cut manual reporting time by ~90%.
 
-- **Deakin Research Institute (2023)**  
-  Achieved a **92% optimization** for community clustering algorithms.
+- **SME Careers, Paris (Jun - Nov 2025): Software Engineer**  
+  Built admin dashboards (FastAPI, React, MongoDB) and AI pipelines processing 100,000+ technical documents for RAG and LLM fine-tuning.
 
-- **Pivotree (2020-2022)**  
-  Automated 60+ processes, achieving a promotion as Lead of Optimization.
+- **Renault (2024): Software Engineer Intern**  
+  Migrated legacy ELT pipelines to AWS (S3, EC2, Lambda) with Spring Boot, improving efficiency by 30%.
 
-- **Hasura, SPI Cinemas, Crio, and more (2018-2020)**  
-  Built projects including a **radiation detection tool** with 96% accuracy.
+- **Pivotree, Bengaluru (2020 - 2022): Senior Software Engineer**  
+  Built features for an enterprise SaaS order management system (Python, React, AWS). Cut processing time by 90% through automation and mentored junior engineers.
+
+- **Hasura, Crio, Creare (2018 - 2020): Full Stack Developer**  
+  Delivered GraphQL, e-learning and biometric payment projects (React, Node.js, Python, Java).
 
 ---
 
 ### 🌟 Achievements
 
-- **Hackathon Winner:** European Hackathon 2024, French Ministry of Transport
-- **Top Performer Awards:** Multiple recognitions for project success
-- **Publications:** JETIR Journal and RCICD Conference
-- **Certifications:** Blockchain, Cybersecurity, Data Science (IBM, Salesforce)
+- **Winner:** European Hackathon 2024 (French Ministry of Transport)
+- **Special mentions:** NUS Singapore Hackathon, Mistral MCP Hackathon
+- **Publications:** Smart AI Summit (2025), JETIR Journal
+- **Software copyrights:** Author of two registered copyrights
+- **Certifications:** Cloud Architecture Solutions (ESIEE '24), Cyber Threat Intelligence (IBM '24)
 
 ---
 
 ### 🎓 Education
 
-- **Université Gustave Eiffel (ESIEE Paris)** - Diplome d'ingénieur - Masters in Cybersecurity & AI
-- **Teesside University** - Exchange Program, specialized in Agile web and mobile app development
-- **SRM Institute of Science and Technology** - Engineering Degree in Computer Science, ranked top 3
+- **ESIEE Paris** (2024): Master's in Computer Science, Cybersecurity & AI
+- **Deakin University** (2023): Erasmus, Software Optimisation
+- **SRM University** (2020): B.E. Computer Science Engineering
+- **Teesside University** (2019): Erasmus, Agile Development
 
 ---
 
@@ -146,14 +138,8 @@
   <a href="https://www.linkedin.com/in/shakthi11/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://www.youtube.com/@CommonManTech" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shakthivel.murugavel@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FD7C17&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://shakthi1109.github.io/website/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google&label=&color=9C54E3&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Portfolio logo"  />
   </a>
 
 </div>
