@@ -1,10 +1,6 @@
 # Bonjour! I'm Shakthi👋 
 
-**Senior Full Stack Software Engineer** with **7 years of experience** building scalable SaaS, cloud and AI systems. Specialized in **Python backends, React frontends, AWS, GCP, cloud and CI/CD pipelines**.
-
-My cybersecurity background shapes how I approach application design, authentication, data protection and production reliability.
-
-🚀 Currently working at **Speakli** as a **Core Software Engineer**, owning system design for a **speech-to-text healthcare report generation platform**. Previously worked at **Renault, Pivotree, Hasura**, and more.
+**Full Stack Software Engineer** with **7 years of experience** delivering scalable and robust **SaaS systems**. Specialized in **software architecture**, with expertise in **cloud platforms (AWS and GCP)** and **CI/CD infrastructure**. Proven track record of delivering **end-to-end solutions in international teams**. Experience at multinational companies (**Renault, Pivotree, SPI**) and startups (**Speakli, Hasura**, and more).
 
 🌍 Based in **Paris**. Worked with teams across **Australia 🇦🇺, UK 🇬🇧, India 🇮🇳, France 🇫🇷, US 🇺🇸, and Canada 🇨🇦**. Working in **English and French**.
 
