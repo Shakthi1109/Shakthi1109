@@ -40,7 +40,7 @@
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Programming Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=py,ts,js,java"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=py,ts,js,java,bash"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
@@ -48,7 +48,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,vue,tailwind,figma"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,vue,tailwind,css,figma"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Databases:</td>
@@ -56,7 +56,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Cloud & DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=aws,gcp,docker,githubactions,gitlab"/></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=aws,gcp,terraform,docker,githubactions,gitlab"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">AI & LLM:</td>
@@ -72,6 +72,11 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github,notion,linux,vscode"/></td>
     </tr>
 </table>
+
+<p align="center">
+  <b>AI:</b> RAG pipelines · LLM fine-tuning · MCP servers · Computer Vision<br>
+  <b>Security:</b> OWASP Top 10 · SAST/DAST/SCA · Cryptography · GDPR
+</p>
 
 ------
 
