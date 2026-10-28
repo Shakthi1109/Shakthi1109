@@ -115,4 +115,4 @@
 ###
 
 
-Thank you for visiting my profile! Feel free to explore my repositories or reach out to discuss Software Development, AI, cybersecurity, or potential collaborations.
+Thank you for visiting my profile! Feel free to explore my repositories and reach out to discuss Tech or potential collaborations.
