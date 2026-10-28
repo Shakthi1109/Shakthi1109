@@ -4,7 +4,7 @@
 
 🌍 Based in **Paris**. Worked with teams across **Australia 🇦🇺, UK 🇬🇧, India 🇮🇳, France 🇫🇷, US 🇺🇸, and Canada 🇨🇦**. Working in **English and French**.
 
-🔎 **Open to senior full stack and AI engineering roles in Paris or remote**.
+🔎 **Open to full stack and AI engineering roles in Paris or remote**.
 
 
 ------
