@@ -1,6 +1,8 @@
 # Bonjour! I'm Shakthi👋 
 
-**Full Stack Software Engineer** with **7 years of experience** delivering scalable and robust **SaaS systems**. Specialized in **software architecture**, with expertise in **cloud platforms (AWS and GCP)** and **CI/CD infrastructure**. Proven track record of delivering **end-to-end solutions in international teams**. Experience at multinational companies (**Renault, Pivotree, SPI**) and startups (**Speakli, Hasura**, and more).
+**Full Stack Software Engineer** with **7 years of experience** delivering scalable and robust **SaaS systems**. 
+Specialized in **software architecture**, with expertise in **cloud platforms (AWS and GCP)** and **CI/CD infrastructure**. 
+Proven track record of delivering **end-to-end solutions in international teams**. Experience at multinational companies (**Renault, Pivotree, SPI**) and startups (**Speakli, Hasura**, and more).
 
 🌍 Based in **Paris**. Worked with teams across **Australia 🇦🇺, UK 🇬🇧, India 🇮🇳, France 🇫🇷, US 🇺🇸, and Canada 🇨🇦**. Working in **English and French**.
 
