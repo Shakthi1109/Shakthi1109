@@ -87,10 +87,10 @@
 
 ### 🎓 Education
 
-- **ESIEE Paris** (2024): Master's in Computer Science, Cybersecurity & AI
-- **Deakin University** (2023): Erasmus, Software Optimisation
-- **SRM University** (2020): B.E. Computer Science Engineering
-- **Teesside University** (2019): Erasmus, Agile Development
+- **ESIEE Paris, France** – Masters in Computer Science (Cybersecurity and AI) `2024`
+- **Deakin University, Australia** – Exchange program in Software Optimisation `2023`
+- **SRM University, India** – Bachelors in Computer Science Engineering `2020`
+- **Teesside University, England** – Exchange program in Agile App Development `2019`
 
 ---
 
