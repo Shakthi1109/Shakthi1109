@@ -75,38 +75,6 @@
 
 ------
 
-### 🛠 Key Skills
-
-- **Backend:** Python (FastAPI), Node.js, REST, GraphQL, async programming, message queues (RabbitMQ), microservices, system design
-- **Frontend:** React, TypeScript, Vue.js, Tailwind CSS
-- **AI & LLM:** RAG pipelines, LLM fine-tuning, AI agents, MCP servers, Anthropic / OpenAI APIs, speech-to-text, prompt engineering
-- **Cloud & DevOps:** AWS (S3, EC2, Lambda), GCP (Cloud Run, Cloud SQL), Docker, Kubernetes, CI/CD (GitHub Actions, GitLab), Terraform
-- **Databases:** PostgreSQL, MongoDB, Redis, SQLAlchemy / ORMs, data modeling, query optimization
-- **Engineering Practices:** Testing (pytest, Jest), code review, secure coding (OWASP, GDPR), observability, Agile (Scrum, Kanban), Git
-- **Leadership:** Technical ownership, architecture decisions, mentoring, cross-functional collaboration
-
-
----
-
-### 📌 Professional Experience
-
-- **Speakli, Paris (Nov 2025 - Present): Core Software Engineer**  
-  Own system design for a speech-to-text healthcare report platform serving 20+ clients and ~21,000 documents/day (FastAPI, PostgreSQL, GCP). Fine-tuned LLM and speech models for clinical data; React/TypeScript UI cut manual reporting time by ~90%.
-
-- **SME Careers, Paris (Jun - Nov 2025): Software Engineer**  
-  Built admin dashboards (FastAPI, React, MongoDB) and AI pipelines processing 100,000+ technical documents for RAG and LLM fine-tuning.
-
-- **Renault (2024): Software Engineer Intern**  
-  Migrated legacy ELT pipelines to AWS (S3, EC2, Lambda) with Spring Boot, improving efficiency by 30%.
-
-- **Pivotree, Bengaluru (2020 - 2022): Senior Software Engineer**  
-  Built features for an enterprise SaaS order management system (Python, React, AWS). Cut processing time by 90% through automation and mentored junior engineers.
-
-- **Hasura, Crio, Creare (2018 - 2020): Full Stack Developer**  
-  Delivered GraphQL, e-learning and biometric payment projects (React, Node.js, Python, Java).
-
----
-
 ### 🌟 Achievements
 
 - **Winner:** European Hackathon 2024 (French Ministry of Transport)
