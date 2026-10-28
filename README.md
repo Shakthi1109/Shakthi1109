@@ -18,7 +18,7 @@
 
 <h3 align="left">Activity:</h3>
 
-[![Shakthi's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Shakthi1109&bg_color=100f0f&color=3DFF00&line=3DFF00&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shakthi's GitHub activity graph](https://activity-graph.vercel.app/graph?username=Shakthi1109&bg_color=100f0f&color=3DFF00&line=3DFF00&point=403e41&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="center">🔥 My Stats 🔥</h3>
 <div align="center">
